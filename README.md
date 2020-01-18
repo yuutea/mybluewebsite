@@ -1,2 +1,0 @@
-# mybluewebsite
-Created with CodeSandbox
